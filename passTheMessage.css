@@ -1,0 +1,10 @@
+
+.message-error-alert {
+    display: none;
+}
+
+.show {
+    display: block !important;
+    color: red;
+
+}
